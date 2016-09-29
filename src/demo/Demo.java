@@ -25,10 +25,10 @@ public class Demo {
 		// TODO Auto-generated method stub
 
 
-//		qqq
-//		wwwww
 
 		System.out.println(123);
+		
+		System.out.println("测试打印");
 
 	}
 
